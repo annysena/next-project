@@ -1,9 +1,9 @@
-import Navbar from "@/components/Navbar";
+import styles from "../styles/Home.module.css"
 
 export default function Home() {
   return (
-      <div>
-        <h1>Hello World</h1>
+      <div className={styles.title}>
+        <h1>Ínicio da Página</h1>
       </div>
   )
 }

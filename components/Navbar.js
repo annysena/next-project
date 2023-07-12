@@ -19,6 +19,11 @@ export default function Navbar() {
               <p>Sobre nós</p>
             </Link>
           </li>
+          <li>
+            <Link href="/contact">
+              <p>Fale Conosco</p>
+            </Link>
+          </li>
         </ul>
     )
 }

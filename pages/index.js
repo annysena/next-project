@@ -12,12 +12,12 @@ export default function Home() {
       </Head>
       <div>
         <h1 className={styles.title}>Ínicio da Página</h1>
-        {/* <Image 
+        <Image 
          src="/image/img2.jpg" 
-         width="200px" 
-         height="200px" 
+         width={400} 
+         height={400} 
          alt="Cidade Noturna"
-        /> */}
+        />
       </div>
       </>
   )

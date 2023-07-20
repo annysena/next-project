@@ -1,8 +1,16 @@
 .footer {
     display: flex;
-    background-color: #000;
     color: #fff;
-    height: 150px;
+    height: 120px;
     justify-content: center;
     align-items: center;
+    padding: 20px 10px;
+    color: #fff;
+    background-image: url(/image/green.png);
+    background-size: cover;
+    background-position: center;    
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: -20px;
+    margin-right: -20px;
 }
